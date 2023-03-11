@@ -1,5 +1,5 @@
 # Solicitamos al usuarios ingresar unos numeros con el 
-# cual realizaremos algunas operaciones basicas en python
+# cual realizaremos algunas operaciones basicas en python. prubalo
 num1 = int(input('Ingresa un numero": '))
 num2 = int(input('Ingresa un numero: '))
 
